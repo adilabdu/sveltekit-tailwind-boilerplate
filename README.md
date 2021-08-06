@@ -1,3 +1,3 @@
-### Boilterplate Template for `Sveltekit` + `TailwindCSS`
+### Boilterplate Template for SvelteKit + TailwindCSS
 
 To start, `npm install`, then `npm run dev`
